@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="skip_usher_page">跳过</string>
+    <string name="usher_image_title">title</string>
+    <string name="usher_image_copyright">copyright</string>
+    <string name="day_ranking">日排行</string>
+    <string name="guss_you_like">猜你喜欢</string>
+    <string name="follow_the_update">关注更新</string>
+    <string name="personal_center">个人中心</string>
+    <string name="function_center">功能中心</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
